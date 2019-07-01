@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Combination.PreCompressedStream", "src\Combination.PreCompressedStream\Combination.PreCompressedStream.csproj", "{03EB39EB-9501-4767-8674-0F22131A044D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreCompressedStream.Tests", "src\PreCompressedStream.Tests\PreCompressedStream.Tests.csproj", "{211F9966-177F-4E07-B978-0F8DCCE94CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EB39EB-9501-4767-8674-0F22131A044D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EB39EB-9501-4767-8674-0F22131A044D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EB39EB-9501-4767-8674-0F22131A044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EB39EB-9501-4767-8674-0F22131A044D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211F9966-177F-4E07-B978-0F8DCCE94CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211F9966-177F-4E07-B978-0F8DCCE94CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211F9966-177F-4E07-B978-0F8DCCE94CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211F9966-177F-4E07-B978-0F8DCCE94CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB9DECB-1417-44BA-A5D0-4CEE52AE47CB}
+	EndGlobalSection
+EndGlobal
